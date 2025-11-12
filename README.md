@@ -6,7 +6,7 @@
 </p>
 
 
-# 👋 Hi, I'm Sai Karthik Chittamuru
+# 👋 Hi, I'm Sai Karthik 
 
 🎯 **AI Engineer | Software Developer | Machine Learning Enthusiast**
 
