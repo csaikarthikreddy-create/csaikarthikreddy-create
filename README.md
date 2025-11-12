@@ -6,18 +6,6 @@
 </p>
 
 
-# 👋 Hi, I'm Sai Karthik Chittamuru  
-🎯 **AI Engineer | Software Developer | Machine Learning Enthusiast**  
-
-Welcome to my portfolio!  
-I’m passionate about building intelligent systems that combine data, automation, and human creativity.
-
-</td>
-</tr>
-</table>
-
-
-
 # 👋 Hi, I'm Sai Karthik Chittamuru
 
 🎯 **AI Engineer | Software Developer | Machine Learning Enthusiast**
