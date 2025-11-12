@@ -1,21 +1,23 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/csaikarthikreddy-create" 
-       alt="Sai Karthik Chittamuru" 
-       width="150" 
+<table>
+<tr>
+<td width="160">
+  <img src="https://avatars.githubusercontent.com/csaikarthikreddy-create"
+       alt="Sai Karthik Chittamuru"
+       width="150"
        style="border-radius: 50%; border: 3px solid #ccc;" />
-</p>
+</td>
+<td>
 
-<p align="center">
-  <a href="https://github.com/csaikarthikreddy-create?tab=followers">
-    <img src="https://img.shields.io/github/followers/csaikarthikreddy-create?label=Follow&style=social" alt="GitHub followers" />
-  </a>
-  <a href="https://linkedin.com/in/saikarthikchittamuru">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:csaikarthikreddy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-csaikarthikreddy%40gmail.com-red?logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+# 👋 Hi, I'm Sai Karthik Chittamuru  
+🎯 **AI Engineer | Software Developer | Machine Learning Enthusiast**  
+
+Welcome to my portfolio!  
+I’m passionate about building intelligent systems that combine data, automation, and human creativity.
+
+</td>
+</tr>
+</table>
+
 
 
 # 👋 Hi, I'm Sai Karthik Chittamuru
