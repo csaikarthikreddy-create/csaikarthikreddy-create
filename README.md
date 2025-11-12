@@ -66,9 +66,11 @@ AI agents check the veracity of a new article.
 
 ## 🧾 Certifications
 
-- ✅ Deep Learning Specialization – Andrew Ng (Coursera)  
-- ✅ Generative AI Fundamentals – Google Cloud  
-- ✅ Data Science Professional Certificate – IBM  
+- ✅ Salesforce Administrator
+- ✅ Platform Developer I
+- ✅ Platform Developer II
+- ✅ Data Cloud Consultant
+- ✅ Java Script Developer
 
 ---
 
