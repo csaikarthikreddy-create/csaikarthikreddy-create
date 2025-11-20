@@ -20,11 +20,11 @@ A little bit about my life story. I was born and raised in Chennai, India, and a
 
 ## 🚀 Featured AI Projects
 
-### 🧩 [1. CNN Image Classifier](https://github.com/yourusername/cnn-image-classifier)
-A deep learning model built with **PyTorch** that classifies objects across 10 categories with 92% accuracy.  
-- Implemented data augmentation and learning-rate scheduling  
-- Visualized filters and feature maps for explainability  
-- Deployed via **FastAPI** + **Docker**
+### 🧩 [1.Nail-Disease-Classification-Application](https://github.com/csaikarthikreddy-create/Nail-Disease-Classification-Application)
+A deep learning model built with **PyTorch** that classifies nails across 6 categories with 91% accuracy.  
+- Implemented yolo model for nail detection and DenseNet image classifier for disease classification 
+- Trained the yolo model on nail images to improve nails detection . DenseNet trained on images of nails affected with various disease.
+- Front end powered by FLASK application
 
 ### 🤖 [2. AI Chatbot Assistant](https://github.com/csaikarthikreddy-create/local-rag-chatbot/tree/main)
 A contextual chatbot powered by **OpenAI API** and **LangChain**, with a custom React front end.  
