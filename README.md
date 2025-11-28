@@ -4,16 +4,15 @@
 🎯 **AI Engineer | Software Developer | Machine Learning Enthusiast**
 ### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=csaikarthikreddy-create&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csaikarthikreddy-create&layout=compact&theme=dark)
 
 Welcome to my portfolio!  
 I’m passionate about building intelligent systems that combine data, automation, and human creativity.  
 I am currently pursuing my Artificial Intelligence Systems Managment masters degree in Carnegie Mellon University. My interest span across **LLM's**, **Deep Learning**, **Computer Vision**, and **Generative AI**. 
 A little bit about my life story. I was born and raised in Chennai, India, and as a child, education was a means to independence, growth and recognition. I was  inclined towards entrepreneurship from a young age. The satisfaction of creating and building up things from scratch gave me an adrenaline rush. At age of 24 while I was working as a software developer in Cognizant Technology solutions, I started my first business- a small 20 seater restaurant/cafe focusing on indo- asian cusine. From a small cafe I quickly expanded  my business to three big outlets in prime locations in the next 5 years. While I ran my brick and motor business, I felt that technology, specifically AI, was a powerful medium to have a substantial impact on the society at large. I upskilled myself in the salesforce domain and joined as a  salesforce developer in CRMIT solutions in the year 2022. I handled several salesforce implementations for clients as a Lead Salesforce Developer until I moved to the United States. Learning is a life long journey and anyone who stops learning moves into oblivion. I took one of hardest decision in my life which is to return to academia after a gap of 15 years. I decided to become a student again by enrolling myself as a masters student in Artificial Intelligence in Systems Management at Carnegie Mellon University. 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=csaikarthikreddy-create&show_icons=true&theme=dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csaikarthikreddy-create&layout=compact&theme=dark)
 ---
 
 ## 🚀 Featured AI Projects
