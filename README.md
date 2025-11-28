@@ -2,6 +2,11 @@
 # 👋 Hi, I'm Sai Karthik 
 
 🎯 **AI Engineer | Software Developer | Machine Learning Enthusiast**
+### 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=csaikarthikreddy-create&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csaikarthikreddy-create&layout=compact&theme=dark)
 
 Welcome to my portfolio!  
 I’m passionate about building intelligent systems that combine data, automation, and human creativity.  
