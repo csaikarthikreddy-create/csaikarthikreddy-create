@@ -1,10 +1,3 @@
-<p align="left">
-  <img src="https://avatars.githubusercontent.com/csaikarthikreddy-create"
-       alt="Sai Karthik Chittamuru"
-       width="150"
-       style="border-radius: 50%; border: 3px solid #ccc;" />
-</p>
-
 
 # 👋 Hi, I'm Sai Karthik 
 
