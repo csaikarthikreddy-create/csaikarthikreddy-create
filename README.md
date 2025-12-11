@@ -29,11 +29,12 @@ A contextual chatbot powered by **OpenAI API** and **LangChain**, with a custom 
 - Built with Node.js backend for event-driven messaging  
 - Deployed on Render using OAuth authentication
 
-### 🧠 [3. Neural Style Transfer App](https://github.com/yourusername/style-transfer)
-An interactive web app that applies artistic styles to photos in real time.  
+### 🧠 [3. Nail Disease Identifier App](https://github.com/csaikarthikreddy-create/Nail-Disease-Classification-Application)
+An interactive web app built on FLASK, a lightweight Python Web framework .  
 - Implemented using **TensorFlow**  
 - Integrated with Flask + React for smooth UX  
-- Deployed demo: [style-transfer-demo.netlify.app](https://style-transfer-demo.netlify.app)
+- Uses DenseNet 201 CNN classifier for classifying the diseases
+- Uses a YOLO8 for boxing and nail detection
 
 ### 📊 [4. AI-Powered Fake News Checker](https://github.com/csaikarthikreddy-create/fake-news-checker)
 AI agents check the veracity of a new article.  
