@@ -18,7 +18,8 @@ A little bit about my life story. I was born and raised in Chennai, India, and a
 ## 🚀 Featured AI Projects
 
 ### 🧩 [1.Nail-Disease-Classification-Application](https://github.com/csaikarthikreddy-create/Nail-Disease-Classification-Application)
-A deep learning model built with **PyTorch** that classifies nails across 6 categories with 91% accuracy.  
+A deep learning model built with **PyTorch** that classifies nails across 6 categories with 87% accuracy.  
+- Integrated with Flask + React for smooth UX  
 - Implemented yolo model for nail detection and DenseNet image classifier for disease classification 
 - Trained the yolo model on nail images to improve nails detection . DenseNet trained on images of nails affected with various disease.
 - Front end powered by FLASK application
@@ -29,12 +30,10 @@ A contextual chatbot powered by **OpenAI API** and **LangChain**, with a custom 
 - Built with Node.js backend for event-driven messaging  
 - Deployed on Render using OAuth authentication
 
-### 🧠 [3. Nail Disease Identifier App](https://github.com/csaikarthikreddy-create/Nail-Disease-Classification-Application)
-An interactive web app built on FLASK, a lightweight Python Web framework .  
-- Implemented using **TensorFlow**  
-- Integrated with Flask + React for smooth UX  
-- Uses DenseNet 201 CNN classifier for classifying the diseases
-- Uses a YOLO8 for boxing and nail detection
+### 🧠 [3. Social Media Post Creator Agent](https://github.com/csaikarthikreddy-create/Social-Media-Post-Creator-Agent)
+-Mutliple agents which do the analysis, planning and creation of linkedin/twitter posts.  
+- Uses Firecrawl to scrape data from a blog post
+- Uses Gemini LLM model for all the agents to reason, analyse and create posts. 
 
 ### 📊 [4. AI-Powered Fake News Checker](https://github.com/csaikarthikreddy-create/fake-news-checker)
 AI agents check the veracity of a new article.  
